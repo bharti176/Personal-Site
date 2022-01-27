@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Alice Francis</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="C:\Users\Asus\Desktop\New Project\Personal site\favicon (1).ico">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="cloud-img" src="C:\Users\Asus\Desktop\New Project\Personal site\images\cloud.png" alt="cloud">
+      <h1>I'am Alice.</h1>
+      <h2>a <span class="pro">Pro</span>grammer.</h2>
+      <img class="cloud1-img" src="C:\Users\Asus\Desktop\New Project\Personal site\images\cloud (1).png" alt="cloud1">
+      <img class="mountain-img" src="C:\Users\Asus\Desktop\New Project\Personal site\images\mountains.png" alt="mountains">
+    </div>
+    <hr>
+
+    <div class="middle-container">
+    <div class="Profile">
+      <img class="person-img" src="C:\Users\Asus\Desktop\New Project\Personal site\images\woman.png" alt="woman">
+      <h2>Hello</h2>
+      <p class="intro">I'am android and web developer. I love coffee and chicken.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills</h2>
+      <div class="skill-row">
+      <img class="code-img" src="C:\Users\Asus\Desktop\New Project\Personal site\images\code.png" alt="code">
+      <h3>Android and Web Develpoer</h3>
+      <p>Web development is the work involved in developing a Web site for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services. </p>
+    </div>
+      <div class="skill-row">
+      <img class="food-img" src="C:\Users\Asus\Desktop\New Project\Personal site\images\fast-food.png" alt="food">
+      <h3>Foodie</h3>
+      <p>A foodie is a person who has an ardent or refined interest in food, and who eats food not only out of hunger but also as a hobby.a person who enjoys food for pleasure.</p>
+    </div>
+  </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>If you love food as much as i do</h3>
+      <p class="contact-message">Love food as much as i do? Let's talk about how awsome they are! We can code while we eat!</p>
+      <a class="btn" href="mailto:ilove@food.com">CONTACT ME</a>
+
+    </div>
+  </div>
+
+    <div class="bottom-container">
+      <a class="footer-link" href="https://www.linkedin.com/in/angela-yu-963a584b/">LinkedIn</a>
+      <a class="footer-link" href="https://twitter.com/yu_angela">Twitter</a>
+      <a class="footer-link" href="https://www.appbrewery.co/">Website</a>
+      <p class="copyright">2021 Alice Francis @ the</p>
+    </div>
+  </body>
+</html>
